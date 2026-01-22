@@ -67,20 +67,20 @@
 </tr>
 <tr>
 
-<!-- Catcher -->
+<!-- PortFolio -->
 <td align="center">
   <a href="#">
     <img 
-      src="assets/thumbs/catcher.png" 
-      alt="Catcher Game"
+      src="assets/thumbs/portfolio.png" 
+      alt="Portfolio"
       width="240"
       height="135"
       style="object-fit: cover; border-radius: 8px;"
     >
   </a>
   <br/>⎯⎯⎯⎯<br/>
-  <strong>Catcher</strong><br/>
-  <a href="https://github.com/Anuj0720/Catcher">Code</a>
+  <strong>Portfolio</strong><br/>
+  <a href="https://anuj-device.vercel.app/">Live</a>
 </td>
 
 <!-- Fighter -->
@@ -118,21 +118,23 @@
 </tr>
 <tr>
 
-<!-- PortFolio -->
+<!-- Catcher -->
 <td align="center">
   <a href="#">
     <img 
-      src="assets/thumbs/portfolio.png" 
-      alt="Portfolio"
+      src="assets/thumbs/catcher.png" 
+      alt="Catcher Game"
       width="240"
       height="135"
       style="object-fit: cover; border-radius: 8px;"
     >
   </a>
   <br/>⎯⎯⎯⎯<br/>
-  <strong>Portfolio</strong><br/>
-  <a href="https://anuj-device.vercel.app/">Live</a>
+  <strong>Catcher</strong><br/>
+  <a href="https://github.com/Anuj0720/Catcher">Code</a>
 </td>
+
+
 
 </tr>
 </table>
