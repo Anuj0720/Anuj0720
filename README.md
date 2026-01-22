@@ -18,7 +18,7 @@
 <!-- Portfolio -->
 <td align="center">
   <a href="#">
-    <img src="assets/thumbs/portfolio.png" alt="Portfolio" width="240" height="135">
+    <img src="assets/thumbs/portfolio.png" alt="Portfolio" >
   </a>
   <br/>⎯⎯⎯⎯<br/>
   <strong>Portfolio</strong><br/>
@@ -28,7 +28,7 @@
 <!-- Tiny Tumble -->
 <td align="center">
   <a href="https://tiny-tumble.vercel.app/">
-    <img src="assets/thumbs/tiny-tumble.png" alt="Tiny Tumble" width="240" height="135">
+    <img src="assets/thumbs/tiny-tumble.png" alt="Tiny Tumble" >
   </a>
   <br/>⎯⎯⎯⎯<br/>
   <strong>Tiny Tumble</strong><br/>
@@ -39,7 +39,7 @@
 <!-- Rocket Boost -->
 <td align="center">
   <a href="#">
-    <img src="assets/thumbs/rocket-boost.png" alt="Rocket Boost" width="240" height="135">
+    <img src="assets/thumbs/rocket-boost.png" alt="Rocket Boost" >
   </a>
   <br/>⎯⎯⎯⎯<br/>
   <strong>Rocket Boost</strong><br/>
@@ -52,7 +52,7 @@
 <!-- Space Invaders -->
 <td align="center">
   <a href="#">
-    <img src="assets/thumbs/space-invaders.png" alt="Space Invaders" width="240" height="135">
+    <img src="assets/thumbs/space-invaders.png" alt="Space Invaders" >
   </a>
   <br/>⎯⎯⎯⎯<br/>
   <strong>Space Invaders</strong><br/>
@@ -62,7 +62,7 @@
 <!-- Fighter -->
 <td align="center">
   <a href="#">
-    <img src="assets/thumbs/fighter.png" alt="Fighter Game" width="240" height="135">
+    <img src="assets/thumbs/fighter.png" alt="Fighter Game" >
   </a>
   <br/>⎯⎯⎯⎯<br/>
   <strong>Fighter</strong><br/>
@@ -72,7 +72,7 @@
 <!-- Roomfolio -->
 <td align="center">
   <a href="#">
-    <img src="assets/thumbs/room-folio.png" alt="Roomfolio" width="240" height="135">
+    <img src="assets/thumbs/room-folio.png" alt="Roomfolio" >
   </a>
   <br/>⎯⎯⎯⎯<br/>
   <strong>Roomfolio</strong><br/>
@@ -84,7 +84,7 @@
 <!-- Catcher -->
 <td align="center">
   <a href="#">
-    <img src="assets/thumbs/catcher.jpeg" alt="Catcher Game" width="240" height="135">
+    <img src="assets/thumbs/catcher.jpeg" alt="Catcher Game" >
   </a>
   <br/>⎯⎯⎯⎯<br/>
   <strong>Catcher</strong><br/>
