@@ -1,6 +1,9 @@
 # Hey there 👋 ! I'm Anuj Jadhav
 
+![Visitors](https://komarev.com/ghpvc/?username=Anuj0720&label=Profile%20Views&color=0e75b6&style=flat)
+
 ---
+
 
 ## Find me ↘
 
