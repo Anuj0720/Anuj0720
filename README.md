@@ -6,14 +6,30 @@
 
 📝 Portfolio: https://anuj-device.vercel.app  
 💼 LinkedIn: www.linkedin.com/in/anuj-jadhav-8814b5302  
-🐦 Twitter: https://x.com/Anuj327992  
+🐦 Twitter: https://x.com/Anuj327992
 
 <!-- PROJECT-TABLE-START -->
+
 ## Projects <sup>7</sup> ↘
 
 <table>
 <tr>
 
+<!-- PortFolio -->
+<td align="center">
+  <a href="#">
+    <img 
+      src="assets/thumbs/portfolio.png" 
+      alt="Portfolio"
+      width="240"
+      height="135"
+      style="object-fit: cover; border-radius: 8px;"
+    >
+  </a>
+  <br/>⎯⎯⎯⎯<br/>
+  <strong>Portfolio</strong><br/>
+  <a href="https://anuj-device.vercel.app/">Live</a>
+</td>
 <!-- Tiny Tumble -->
 <td align="center">
   <a href="https://tiny-tumble.vercel.app/">
@@ -67,22 +83,6 @@
 </tr>
 <tr>
 
-<!-- PortFolio -->
-<td align="center">
-  <a href="#">
-    <img 
-      src="assets/thumbs/portfolio.png" 
-      alt="Portfolio"
-      width="240"
-      height="135"
-      style="object-fit: cover; border-radius: 8px;"
-    >
-  </a>
-  <br/>⎯⎯⎯⎯<br/>
-  <strong>Portfolio</strong><br/>
-  <a href="https://anuj-device.vercel.app/">Live</a>
-</td>
-
 <!-- Fighter -->
 <td align="center">
   <a href="#">
@@ -122,7 +122,7 @@
 <td align="center">
   <a href="#">
     <img 
-      src="assets/thumbs/catcher.png" 
+      src="assets/thumbs/catcher.jpeg" 
       alt="Catcher Game"
       width="240"
       height="135"
@@ -133,8 +133,6 @@
   <strong>Catcher</strong><br/>
   <a href="https://github.com/Anuj0720/Catcher">Code</a>
 </td>
-
-
 
 </tr>
 </table>
