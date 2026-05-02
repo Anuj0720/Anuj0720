@@ -90,3 +90,7 @@
 
 </table>
 <!-- PROJECT-TABLE-END -->
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Anuj0720/Anuj0720/blob/output/github-contribution-grid-snake.svg)
