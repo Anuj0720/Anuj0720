@@ -74,19 +74,19 @@
 
 <tr>
 <td align="center">
+<a href="https://github.com/Anuj0720/Catcher">
+<img src="assets/thumbs/catcher.jpg" alt="Catcher">
+</a><br/>⎯⎯⎯⎯<br/>
+<strong>Catcher</strong><br/>
+<a href="https://github.com/Anuj0720/Catcher">Code</a>
+</td>
+
+<td align="center">
 <a href="https://anujroomfolio.vercel.app/">
 <img src="assets/thumbs/room-folio.png" alt="Roomfolio">
 </a><br/>⎯⎯⎯⎯<br/>
 <strong>Roomfolio</strong><br/>
 <a href="https://anujroomfolio.vercel.app/">Live</a>
-</td>
-
-<td align="center">
-<a href="https://github.com/Anuj0720/Catcher">
-<img src="assets/thumbs/catcher.jpeg" alt="Catcher">
-</a><br/>⎯⎯⎯⎯<br/>
-<strong>Catcher</strong><br/>
-<a href="https://github.com/Anuj0720/Catcher">Code</a>
 </td>
 </tr>
 
