@@ -1,6 +1,6 @@
 # Hey there 👋 ! I'm Anuj Jadhav
 
-![wakatime](https://wakatime.com/badge/user/e5931bd2-a344-4cce-a1dc-ba370b8fac21.svg)
+[![wakatime](https://wakatime.com/badge/user/e5931bd2-a344-4cce-a1dc-ba370b8fac21.svg)](https://wakatime.com/@e5931bd2-a344-4cce-a1dc-ba370b8fac21)
 
 ## Find me ↘
 
