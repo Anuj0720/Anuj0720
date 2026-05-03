@@ -11,10 +11,10 @@
 ---
 
 <!-- PROJECT-TABLE-START -->
-## Projects <sup>8</sup> ↘
+## Projects <sup>9</sup> ↘
 
 <table>
-
+<!-- 1 - 3 -->
 <tr>
 <td align="center">
 <a href="https://anuj-device.vercel.app/">
@@ -43,13 +43,15 @@
 </td>
 </tr>
 
+<!-- 3 - 6 -->
+
 <tr>
 <td align="center">
 <a href="https://gta-vi-rust.vercel.app/">
 <img src="assets/thumbs/gtavi.png" width="260" height="150">
 </a><br/>⎯⎯⎯⎯<br/>
 <strong>GTA VI</strong><br/>
-<a href="https://github.com/Anuj0720/your-repo-name">Code</a> ·
+<a href="https://github.com/Anuj0720/gta_vi">Code</a> ·
 <a href="https://gta-vi-rust.vercel.app/">Live</a>
 </td>
 
@@ -69,7 +71,7 @@
 <a href="https://github.com/Anuj0720/Fighter">Code</a>
 </td>
 </tr>
-
+<!-- 6 - 9 -->
 <tr>
 <td align="center">
 <a href="https://github.com/Anuj0720/Catcher">
@@ -85,6 +87,14 @@
 </a><br/>⎯⎯⎯⎯<br/>
 <strong>Roomfolio</strong><br/>
 <a href="https://anujroomfolio.vercel.app/">Live</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/Anuj0720/String-Lab-Escape">
+<img src="assets/thumbs/string_lab_escape.png" width="260" height="150">
+</a><br/>⎯⎯⎯⎯<br/>
+<strong>String Lab Escape</strong><br/>
+<a href="https://github.com/Anuj0720/String-Lab-Escape">Code</a> ·
 </td>
 </tr>
 
