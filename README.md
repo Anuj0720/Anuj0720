@@ -94,7 +94,7 @@
 <img src="assets/thumbs/string_lab_escape.png" width="260" height="150">
 </a><br/>⎯⎯⎯⎯<br/>
 <strong>String Lab Escape</strong><br/>
-<a href="https://github.com/Anuj0720/String-Lab-Escape">Code</a> ·
+<a href="https://github.com/Anuj0720/String-Lab-Escape">Code</a> 
 </td>
 </tr>
 
