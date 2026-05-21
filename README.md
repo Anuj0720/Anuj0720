@@ -118,7 +118,7 @@ C#   3 mins                █████████████████�
 <img src="assets/thumbs/nike.png" width="260" height="150">
 </a><br/>⎯⎯⎯⎯<br/>
 <strong>Nike</strong><br/>
-<a href="https://github.com/Anuj0720/nike">Code</a>
+<a href="https://github.com/Anuj0720/nike">Code</a> . 
 <a href="https://nike-two-dusky.vercel.app/">Live</a>
 </td>
 
