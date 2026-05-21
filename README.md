@@ -1,5 +1,10 @@
 # Hey there 👋 ! I'm Anuj Jadhav
-[![wakatime](https://wakatime.com/badge/user/e5931bd2-a344-4cce-a1dc-ba370b8fac21.svg)](https://wakatime.com/@e5931bd2-a344-4cce-a1dc-ba370b8fac21)
+[![wakatime](https://wakatime.com/badge/user/e5931bd2-a344-4cce-a1dc-ba370b8fac21.svg?v=2)](https://wakatime.com/@e5931bd2-a344-4cce-a1dc-ba370b8fac21)
+
+## Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ## Find me ↘
