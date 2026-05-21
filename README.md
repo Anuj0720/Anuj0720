@@ -111,6 +111,16 @@ C#   3 mins                █████████████████�
 <a href="https://github.com/Anuj0720/String-Lab-Escape">Code</a> 
 </td>
 </tr>
+<!-- 9 - 12 -->
+<tr>
+<td align="center">
+<a href="https://github.com/Anuj0720/nike">
+<img src="assets/thumbs/nike.png" width="260" height="150">
+</a><br/>⎯⎯⎯⎯<br/>
+<strong>Nike</strong><br/>
+<a href="https://github.com/Anuj0720/nike">Code</a>
+<a href="https://nike-two-dusky.vercel.app/">Live</a>
+</td>
 
 </table>
 <!-- PROJECT-TABLE-END -->
