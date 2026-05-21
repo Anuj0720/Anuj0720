@@ -14,16 +14,6 @@ C#   3 mins                █████████████████�
 <!--END_SECTION:waka-->
 
 
-## Find me ↘
-
-🎮 [Portfolio: anuj-device.vercel.app](https://anuj-device.vercel.app/)
-
-💼 [Linkedin: anuj-jadhav](https://www.linkedin.com/in/anuj-jadhav-8814b5302)
-
-🐦 [Twitter: @Anuj_0720](https://x.com/Anuj_0720)
-
----
-
 <!-- PROJECT-TABLE-START -->
 ## Projects <sup>10</sup> ↘
 
