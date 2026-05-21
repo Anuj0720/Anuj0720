@@ -4,6 +4,17 @@
 ## Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 6 hrs 59 mins
+
+C++          3 hrs 32 mins         ████████████▓░░░░░░░░░░░░   50.13 %
+JavaScript   1 hr 13 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
+Markdown     57 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
+CSS          43 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+YAML         15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+```
+
 <!--END_SECTION:waka-->
 
 
