@@ -25,7 +25,7 @@ C#   3 mins                █████████████████�
 ---
 
 <!-- PROJECT-TABLE-START -->
-## Projects <sup>9</sup> ↘
+## Projects <sup>10</sup> ↘
 
 <table>
 <!-- 1 - 3 -->
