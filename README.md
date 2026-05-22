@@ -6,9 +6,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 mins
+Total Time: 1 hr 10 mins
 
-C#   3 mins                █████████████████████████   100.00 %
+Markdown     30 mins               ██████████▓░░░░░░░░░░░░░░   42.98 %
+JavaScript   16 mins               ██████░░░░░░░░░░░░░░░░░░░   23.42 %
+YAML         12 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.44 %
+HTML         7 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+C#           3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
 ```
 
 <!--END_SECTION:waka-->
