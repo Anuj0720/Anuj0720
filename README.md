@@ -19,7 +19,7 @@ C#           4 mins                ▓░░░░░░░░░░░░░░
 
 
 <!-- PROJECT-TABLE-START -->
-## Projects <sup>10</sup> ↘
+## Projects <sup>11</sup> ↘
 
 <table>
 <!-- 1 - 3 -->
