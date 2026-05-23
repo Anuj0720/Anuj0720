@@ -127,24 +127,7 @@ C#           4 mins                ▓░░░░░░░░░░░░░░
 </tr>
 </table>
 
-<p align="center">
-  <a href="https://tiny-tumble.vercel.app/">
-    <img src="assets/thumbs/tiny-tumble.png" width="80%" />
-  </a>
 
-  <br>
-
-  <strong>Tiny Tumble</strong>
-
-  <br>
-
-  Physics-based game project
-
-  <br><br>
-
-  <a href="https://github.com/Anuj0720/tiny-tumble">Code</a> •
-  <a href="https://tiny-tumble.vercel.app/">Live</a>
-</p>
 <!-- PROJECT-TABLE-END -->
 
 ## 🐍 Contribution Snake
