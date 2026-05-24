@@ -84,7 +84,7 @@ CSS          4 mins                ▒░░░░░░░░░░░░░░
 <strong>Portal</strong><br/>
 <a href="https://github.com/Anuj0720/portal">Code</a> · <a href="https://portal-eight-zeta.vercel.app/">Live</a>
 </td>
-<td align="center"><img src="assets/thumbs/shimmer-placeholder.svg" alt="Coming Soon"><br/>⎯⎯⎯⎯<br/><strong>Coming Soon</strong><br/><a href="https://github.com/Anuj0720">Stay tuned</a></td>
+<td align="center"><img src="assets/thumbs/coming-soon.svg" alt="Coming Soon"><br/>⎯⎯⎯⎯<br/><strong>Coming Soon</strong><br/><a href="https://github.com/Anuj0720">Stay tuned</a></td>
 </tr>
 </table>
 <!-- PROJECT-TABLE-END -->
