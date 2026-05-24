@@ -10,7 +10,7 @@ const THUMB_HEIGHT = 150;
 function generateProjectsTable(projects) {
   const rows = [];
 
-  const shimmerCell = `<td align="center"><img src="assets/thumbs/shimmer-placeholder.svg" alt="Coming Soon"><br/>⎯⎯⎯⎯<br/><strong>Coming Soon</strong><br/><a href="https://github.com/Anuj0720">Stay tuned</a></td>`;
+  const shimmerCell = `<td align="center"><img src="assets/thumbs/coming-soon.svg" alt="Coming Soon"><br/>⎯⎯⎯⎯<br/><strong>Coming Soon</strong><br/><a href="https://github.com/Anuj0720">Stay tuned</a></td>`;
 
   for (let i = 0; i < projects.length; i += 3) {
     const rowProjects = projects.slice(i, i + 3);
