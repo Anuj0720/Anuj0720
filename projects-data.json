@@ -1,0 +1,70 @@
+{
+  "projects": [
+    {
+      "title": "Portfolio",
+      "thumbnail": "assets/thumbs/portfolio.png",
+      "liveUrl": "https://anuj-device.vercel.app/",
+      "codeUrl": null
+    },
+    {
+      "title": "Tiny Tumble",
+      "thumbnail": "assets/thumbs/tiny-tumble.png",
+      "liveUrl": "https://tiny-tumble.vercel.app/",
+      "codeUrl": "https://github.com/Anuj0720/tiny-tumble"
+    },
+    {
+      "title": "Rocket Boost",
+      "thumbnail": "assets/thumbs/rocket-boost.png",
+      "liveUrl": "https://anuj0720.github.io/Rocket-Boost/",
+      "codeUrl": "https://github.com/Anuj0720/Rocket-Boost"
+    },
+    {
+      "title": "GTA VI",
+      "thumbnail": "assets/thumbs/gtavi.png",
+      "liveUrl": "https://gta-vi-rust.vercel.app/",
+      "codeUrl": "https://github.com/Anuj0720/gta_vi"
+    },
+    {
+      "title": "Space Invaders",
+      "thumbnail": "assets/thumbs/space-invaders.png",
+      "liveUrl": null,
+      "codeUrl": "https://github.com/Anuj0720/Space-Invaders"
+    },
+    {
+      "title": "Fighter",
+      "thumbnail": "assets/thumbs/fighter.png",
+      "liveUrl": null,
+      "codeUrl": "https://github.com/Anuj0720/Fighter"
+    },
+    {
+      "title": "Catcher",
+      "thumbnail": "assets/thumbs/catcher.jpg",
+      "liveUrl": null,
+      "codeUrl": "https://github.com/Anuj0720/Catcher"
+    },
+    {
+      "title": "Roomfolio",
+      "thumbnail": "assets/thumbs/room-folio.png",
+      "liveUrl": "https://anujroomfolio.vercel.app/",
+      "codeUrl": null
+    },
+    {
+      "title": "String Lab Escape",
+      "thumbnail": "assets/thumbs/string_lab_escape.png",
+      "liveUrl": null,
+      "codeUrl": "https://github.com/Anuj0720/String-Lab-Escape"
+    },
+    {
+      "title": "Nike",
+      "thumbnail": "assets/thumbs/nike.png",
+      "liveUrl": "https://nike-two-dusky.vercel.app/",
+      "codeUrl": "https://github.com/Anuj0720/nike"
+    },
+    {
+      "title": "Portal",
+      "thumbnail": "assets/thumbs/portal.png",
+      "liveUrl": "https://portal-eight-zeta.vercel.app/",
+      "codeUrl": "https://github.com/Anuj0720/portal"
+    }
+  ]
+}
