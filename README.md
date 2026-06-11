@@ -8,10 +8,7 @@
 ```txt
 Total Time: 0 secs
 
-YAML         0 secs                █████████▒░░░░░░░░░░░░░░░   37.11 %
-Markdown     0 secs                ██████░░░░░░░░░░░░░░░░░░░   23.74 %
-JSON         0 secs                ██████░░░░░░░░░░░░░░░░░░░   23.51 %
-JavaScript   0 secs                ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
