@@ -6,9 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 2 mins
 
-No activity tracked
+JavaScript   2 mins                ████████████████████▓░░░░   82.07 %
+HTML         0 secs                ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+JSON         0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+Other        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
