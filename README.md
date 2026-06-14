@@ -6,12 +6,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 mins
+Total Time: 3 mins
 
-JavaScript   2 mins                ████████████████████▓░░░░   82.07 %
-HTML         0 secs                ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
-JSON         0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-Other        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+JavaScript   2 mins                █████████████████████▒░░░   84.80 %
+HTML         0 secs                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+JSON         0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+Other        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
