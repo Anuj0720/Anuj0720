@@ -6,11 +6,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 23 mins
+Total Time: 0 secs
 
-Text               22 mins               ████████████▓░░░░░░░░░░░░   50.93 %
-Other              21 mins               ███████████▓░░░░░░░░░░░░░   46.88 %
-Rich Text Format   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
