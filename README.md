@@ -20,8 +20,8 @@ No activity tracked
 <table>
 <tr>
 <td align="center">
-<a href="https://anuj-room-folio-amber.vercel.app/"><img src="assets/thumbs/anuj-roomfolio.webp" width="260" height="150"></a><br/>⎯⎯⎯⎯<br/>
-<strong>anuj-roomfolio</strong><br/>
+<a href="https://anuj-room-folio-amber.vercel.app/"><img src="assets/thumbs/anuj-room.webp" width="260" height="150"></a><br/>⎯⎯⎯⎯<br/>
+<strong>Roomfolio</strong><br/>
 <a href="https://github.com/Anuj0720/anuj-room-folio">Code</a> · <a href="https://anuj-room-folio-amber.vercel.app/">Live</a>
 </td>
 <td align="center">
