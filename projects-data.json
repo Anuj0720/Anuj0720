@@ -1,10 +1,10 @@
 {
   "projects": [
     {
-      "title": "Portfolio",
-      "thumbnail": "assets/thumbs/portfolio.png",
-      "liveUrl": "https://anuj-device.vercel.app/",
-      "codeUrl": null
+      "title": "anuj-roomfolio",
+      "thumbnail": "assets/thumbs/anuj-roomfolio.webp",
+      "liveUrl": "https://anuj-room-folio-amber.vercel.app/",
+      "codeUrl": "https://github.com/Anuj0720/anuj-room-folio"
     },
     {
       "title": "Tiny Tumble",
@@ -25,6 +25,12 @@
       "codeUrl": "https://github.com/Anuj0720/gta_vi"
     },
     {
+      "title": "Portfolio",
+      "thumbnail": "assets/thumbs/portfolio.png",
+      "liveUrl": "https://anuj-device.vercel.app/",
+      "codeUrl": null
+    },
+    {
       "title": "Space Invaders",
       "thumbnail": "assets/thumbs/space-invaders.png",
       "liveUrl": null,
@@ -41,12 +47,6 @@
       "thumbnail": "assets/thumbs/catcher.jpg",
       "liveUrl": null,
       "codeUrl": "https://github.com/Anuj0720/Catcher"
-    },
-    {
-      "title": "Roomfolio",
-      "thumbnail": "assets/thumbs/room-folio.png",
-      "liveUrl": "https://anujroomfolio.vercel.app/",
-      "codeUrl": null
     },
     {
       "title": "String Lab Escape",
