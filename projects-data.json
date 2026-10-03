@@ -1,8 +1,8 @@
 {
   "projects": [
     {
-      "title": "anuj-roomfolio",
-      "thumbnail": "assets/thumbs/anuj-roomfolio.webp",
+      "title": "Roomfolio",
+      "thumbnail": "assets/thumbs/anuj-room.webp",
       "liveUrl": "https://anuj-room-folio-amber.vercel.app/",
       "codeUrl": "https://github.com/Anuj0720/anuj-room-folio"
     },
