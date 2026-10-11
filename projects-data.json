@@ -7,6 +7,12 @@
       "codeUrl": "https://github.com/Anuj0720/anuj-room-folio"
     },
     {
+      "title": "Haunted House",
+      "thumbnail": "assets/thumbs/haunted-house.webp",
+      "liveUrl": "https://haunted-house-u86c.vercel.app/",
+      "codeUrl": "https://github.com/Anuj0720/Haunted-House"
+    },
+    {
       "title": "Tiny Tumble",
       "thumbnail": "assets/thumbs/tiny-tumble.png",
       "liveUrl": "https://tiny-tumble.vercel.app/",
@@ -17,12 +23,6 @@
       "thumbnail": "assets/thumbs/rocket-boost.png",
       "liveUrl": "https://anuj0720.github.io/Rocket-Boost/",
       "codeUrl": "https://github.com/Anuj0720/Rocket-Boost"
-    },
-    {
-      "title": "Haunted House",
-      "thumbnail": "assets/thumbs/haunted-house.webp",
-      "liveUrl": "https://haunted-house-u86c.vercel.app/",
-      "codeUrl": "https://github.com/Anuj0720/Haunted-House"
     },
     {
       "title": "GTA VI",
