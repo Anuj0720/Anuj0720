@@ -17,7 +17,7 @@ TypeScript   0 secs                ░░░░░░░░░░░░░░░
 
 
 <!-- PROJECT-TABLE-START -->
-## Projects <sup>11</sup> ↘
+## Projects <sup>12</sup> ↘
 
 <table>
 <tr>
@@ -39,6 +39,11 @@ TypeScript   0 secs                ░░░░░░░░░░░░░░░
 </tr>
 <tr>
 <td align="center">
+<a href="https://haunted-house-u86c.vercel.app/"><img src="assets/thumbs/haunted-house.webp" width="260" height="150"></a><br/>⎯⎯⎯⎯<br/>
+<strong>Haunted House</strong><br/>
+<a href="https://github.com/Anuj0720/Haunted-House">Code</a> · <a href="https://haunted-house-u86c.vercel.app/">Live</a>
+</td>
+<td align="center">
 <a href="https://gta-vi-rust.vercel.app/"><img src="assets/thumbs/gtavi.png" width="260" height="150"></a><br/>⎯⎯⎯⎯<br/>
 <strong>GTA VI</strong><br/>
 <a href="https://github.com/Anuj0720/gta_vi">Code</a> · <a href="https://gta-vi-rust.vercel.app/">Live</a>
@@ -48,13 +53,13 @@ TypeScript   0 secs                ░░░░░░░░░░░░░░░
 <strong>Portfolio</strong><br/>
 <a href="https://anuj-device.vercel.app/">Live</a>
 </td>
+</tr>
+<tr>
 <td align="center">
 <a href="https://github.com/Anuj0720/Space-Invaders"><img src="assets/thumbs/space-invaders.png" width="260" height="150"></a><br/>⎯⎯⎯⎯<br/>
 <strong>Space Invaders</strong><br/>
 <a href="https://github.com/Anuj0720/Space-Invaders">Code</a>
 </td>
-</tr>
-<tr>
 <td align="center">
 <a href="https://github.com/Anuj0720/Fighter"><img src="assets/thumbs/fighter.png" width="260" height="150"></a><br/>⎯⎯⎯⎯<br/>
 <strong>Fighter</strong><br/>
@@ -65,13 +70,13 @@ TypeScript   0 secs                ░░░░░░░░░░░░░░░
 <strong>Catcher</strong><br/>
 <a href="https://github.com/Anuj0720/Catcher">Code</a>
 </td>
+</tr>
+<tr>
 <td align="center">
 <a href="https://github.com/Anuj0720/String-Lab-Escape"><img src="assets/thumbs/string_lab_escape.png" width="260" height="150"></a><br/>⎯⎯⎯⎯<br/>
 <strong>String Lab Escape</strong><br/>
 <a href="https://github.com/Anuj0720/String-Lab-Escape">Code</a>
 </td>
-</tr>
-<tr>
 <td align="center">
 <a href="https://nike-two-dusky.vercel.app/"><img src="assets/thumbs/nike.png" width="260" height="150"></a><br/>⎯⎯⎯⎯<br/>
 <strong>Nike</strong><br/>
@@ -82,7 +87,6 @@ TypeScript   0 secs                ░░░░░░░░░░░░░░░
 <strong>Portal</strong><br/>
 <a href="https://github.com/Anuj0720/portal">Code</a> · <a href="https://portal-eight-zeta.vercel.app/">Live</a>
 </td>
-<td align="center"><img src="assets/thumbs/coming-soon.svg" alt="Coming Soon"><br/>⎯⎯⎯⎯<br/><strong>Coming Soon</strong><br/><a href="https://github.com/Anuj0720">Stay tuned</a></td>
 </tr>
 </table>
 <!-- PROJECT-TABLE-END -->
