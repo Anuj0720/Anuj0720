@@ -19,6 +19,12 @@
       "codeUrl": "https://github.com/Anuj0720/Rocket-Boost"
     },
     {
+      "title": "Haunted House",
+      "thumbnail": "assets/thumbs/haunted-house.webp",
+      "liveUrl": "https://haunted-house-u86c.vercel.app/",
+      "codeUrl": "https://github.com/Anuj0720/Haunted-House"
+    },
+    {
       "title": "GTA VI",
       "thumbnail": "assets/thumbs/gtavi.png",
       "liveUrl": "https://gta-vi-rust.vercel.app/",
