@@ -27,21 +27,21 @@ TypeScript   0 secs                ░░░░░░░░░░░░░░░
 <a href="https://github.com/Anuj0720/anuj-room-folio">Code</a> · <a href="https://anuj-room-folio-amber.vercel.app/">Live</a>
 </td>
 <td align="center">
+<a href="https://haunted-house-u86c.vercel.app/"><img src="assets/thumbs/haunted-house.webp" width="260" height="150"></a><br/>⎯⎯⎯⎯<br/>
+<strong>Haunted House</strong><br/>
+<a href="https://github.com/Anuj0720/Haunted-House">Code</a> · <a href="https://haunted-house-u86c.vercel.app/">Live</a>
+</td>
+<td align="center">
 <a href="https://tiny-tumble.vercel.app/"><img src="assets/thumbs/tiny-tumble.png" width="260" height="150"></a><br/>⎯⎯⎯⎯<br/>
 <strong>Tiny Tumble</strong><br/>
 <a href="https://github.com/Anuj0720/tiny-tumble">Code</a> · <a href="https://tiny-tumble.vercel.app/">Live</a>
 </td>
+</tr>
+<tr>
 <td align="center">
 <a href="https://anuj0720.github.io/Rocket-Boost/"><img src="assets/thumbs/rocket-boost.png" width="260" height="150"></a><br/>⎯⎯⎯⎯<br/>
 <strong>Rocket Boost</strong><br/>
 <a href="https://github.com/Anuj0720/Rocket-Boost">Code</a> · <a href="https://anuj0720.github.io/Rocket-Boost/">Live</a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://haunted-house-u86c.vercel.app/"><img src="assets/thumbs/haunted-house.webp" width="260" height="150"></a><br/>⎯⎯⎯⎯<br/>
-<strong>Haunted House</strong><br/>
-<a href="https://github.com/Anuj0720/Haunted-House">Code</a> · <a href="https://haunted-house-u86c.vercel.app/">Live</a>
 </td>
 <td align="center">
 <a href="https://gta-vi-rust.vercel.app/"><img src="assets/thumbs/gtavi.png" width="260" height="150"></a><br/>⎯⎯⎯⎯<br/>
