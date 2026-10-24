@@ -6,10 +6,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 mins
+Total Time: 14 mins
 
-Python   12 mins               ███████████████████████▓░   94.70 %
-Text     0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Python       12 mins               █████████████████████▒░░░   85.27 %
+JavaScript   1 min                 ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
+Text         0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
 ```
 
 <!--END_SECTION:waka-->
